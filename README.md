@@ -1,6 +1,6 @@
 # Python Calculator
 
-A beautiful, functional calculator built with Python's tkinter library that matches your design requirements.
+A beautiful, functional calculator built with Python
 
 ## Features
 
@@ -31,13 +31,3 @@ python calculator.py
 - **Percentage**: Click % to convert current number to percentage
 - **Decimal**: Click . to add decimal point
 
-## Code Structure
-
-- `Calculator` class handles all calculator logic and UI
-- `create_widgets()` sets up the user interface
-- `create_buttons()` creates all calculator buttons with proper styling
-- Individual methods handle different operations (input_number, perform_operation, etc.)
-- `format_number()` handles number display formatting
-
-
-The calculator maintains the visual design you specified while providing full functionality!
